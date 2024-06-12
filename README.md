@@ -18,3 +18,5 @@ For more information on formulae and motor calculations, refer to the Maxon Grou
 
 Brushed DC motors for higher temperatures: https://www.maxongroup.com/en-us/knowledge-and-support/blog/maxon-takes-brushed-dc-motors-to-higher-temperatures-69550
 
+In "DC motors design guide.pdf", the editors of Design World detail the most common DC motor types as well common ways to quantify their output during the design-engineering process.
+
